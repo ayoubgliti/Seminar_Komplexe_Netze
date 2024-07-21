@@ -1,4 +1,4 @@
-Seminar: Komplexe Netze
+#Seminar: Komplexe Netze
 
 Titel: Identifikation und Analyse von Skalenfreiheit und Small-World-Eigenschaften in deutschen Straßennetzen. 
 
